@@ -1,7 +1,7 @@
 
 # Hi, my name is Andrew
 
-I am studying an MSc in Statistics at Imperial. I previously studied  a BSc in Economics, Mathematics and Statistics at UCD
+I am studying an MSc in Statistics at Imperial. I previously studied  a BSc in Economics, Mathematics and Statistics at University College Dublin.
 
 This is an introduction to some of my work throughout this year and beyond.
 

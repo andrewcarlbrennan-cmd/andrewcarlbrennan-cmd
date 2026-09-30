@@ -1,5 +1,5 @@
 
-# Hi, my Name is Andrew
+# Hi, my name is Andrew
 
 I am studying an MSc in Statistics at Imperial. I previously studied  a BSc in Economics, Mathematics and Statistics at UCD
 
